@@ -11,4 +11,4 @@ for shelf in range(shelves):
              print(f"Shelf {shelf + 1} -  Bin {bin + 1}: PASS")
         
         
-        #what about this??
+        
